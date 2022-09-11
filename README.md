@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C#**
 
-- 🌏 Where to reach me **You can find my everywhere under AlphaO4**
+- 🌏 **You can reach my everywhere under AlphaO4**
 
 - 📫 How to reach me **AlphaO4@protonmail.com**
 
