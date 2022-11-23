@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **AlphaO4@protonmail.com**
 
-- ☕ You can Buy me some [Caffine](https://www.buymeacoffee.com/AlphaO4) 
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="AlphaO4" data-color="#000000" data-emoji=""  data-font="Cookie" data-text="Buy me a club mate" data-outline-color="#ffffff" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
 
 </p>
 
