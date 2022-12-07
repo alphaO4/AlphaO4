@@ -7,7 +7,7 @@
 
 - 🌏 **You can reach me everywhere under AlphaO4**
 
-- 📫 How to reach me **AlphaO4@protonmail.com**
+- 📫 You can also always shoot me a mail: **AlphaO4@protonmail.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
