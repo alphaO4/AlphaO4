@@ -15,4 +15,4 @@
 
 <a href="https://www.buymeacoffee.com/AlphaO4" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alphao4&show_icons=true&locale=en&count_private=true&show_icons=true&theme=chartreuse-dark" alt="alphao4" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alphao4&show_icons=true&locale=en&count_private=true&theme=chartreuse-dark" alt="alphao4" /></p>
